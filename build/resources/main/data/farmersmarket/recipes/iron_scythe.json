@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "BBA",
+    " A ",
+    "A  "
+  ],
+  "result": {
+    "item": "farmersmarket:iron_scythe"
+  },
+  "show_notification": true
+}

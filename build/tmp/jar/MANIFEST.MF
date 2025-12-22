@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: farmersmarket
+Specification-Vendor: Raul Pereira
+Specification-Version: 1
+Implementation-Title: Farmers
+Implementation-Version: 1.0.0
+Implementation-Vendor: Raul Pereira
+Implementation-Timestamp: 2025-12-21T18:22:14-0300
+

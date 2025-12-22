@@ -1,0 +1,11 @@
+{
+  "creativetab.farmersmarket": "Farmer's Market",
+
+  "item.farmersmarket.iron_scythe": "Iron Scythe",
+  "item.farmersmarket.comically_large_sunflower": "Comically Large Sunflower",
+  "item.farmersmarket.flower_root_sword": "Flower Root Sword",
+
+  "tooltip.farmersmarket.iron_scythe": "Funciona como enxada e causa wither no alvo. Ao apertar §eBOTÃO DIREITO§r corta a área em volta causando dano e quebrando qualquer planta no chão",
+  "tooltip.farmersmarket.sunflower": "Tem knockback elevado e causa nausea nos atingidos. Ao apertar §eBOTÃO DIREITO§r dá um salto na direção que está mirando",
+  "tooltip.farmersmarket.flower_root_sword": "Causa veneno nos atingidos. Ao apertar §eBOTÃO DIREITO§r em um alvo joga ele para cima e para trás"
+}
