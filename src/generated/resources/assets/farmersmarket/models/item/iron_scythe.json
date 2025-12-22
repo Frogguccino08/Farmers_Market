@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "farmersmarket:item/iron_scythe"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [0, -65, 45],
+      "scale": [1.5, 1.5, 1]
+    },
+    "firstperson_lefthand": {
+      "rotation": [0, -65, 45],
+      "scale": [1.5, 1.5, 1]
+    },
+    "thirdperson_righthand": {
+      "rotation": [0, -90, 45],
+      "scale": [2.0, 2.0, 1]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [0, -90, 45],
+      "scale": [2.0, 2.0, 1]
+    }
+  }
+}

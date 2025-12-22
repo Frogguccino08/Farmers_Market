@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "minecraft:sunflower"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "   ",
+    "BAB",
+    "   "
+  ],
+  "result": {
+    "item": "farmersmarket:comically_large_sunflower"
+  },
+  "show_notification": true
+}

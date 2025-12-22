@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "tag": "minecraft:leaves"
+    },
+    "B": {
+      "tag": "minecraft:flowers"
+    }
+  },
+  "pattern": [
+    " A ",
+    " A ",
+    " B "
+  ],
+  "result": {
+    "item": "farmersmarket:flower_root_sword"
+  },
+  "show_notification": true
+}
