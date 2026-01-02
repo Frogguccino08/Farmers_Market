@@ -89,7 +89,7 @@ public class ScytheItem extends HoeItem {
 
         AABB area = new AABB(
                 centro.offset(-raio, -1, -raio),
-                centro.offset(raio, 1, raio)
+                centro.offset(raio, 2, raio)
         );
 
         for (LivingEntity entity : level.getEntitiesOfClass(LivingEntity.class, area)) {

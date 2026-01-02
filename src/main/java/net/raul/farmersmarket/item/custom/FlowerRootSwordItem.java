@@ -48,15 +48,16 @@ public class FlowerRootSwordItem extends SwordItem {
 
         Vec3 look = player.getLookAngle().normalize();
 
-        double forcaHorizontal = 0.3D;
-        double forcaVertical = 0.5D;
+        double forcaHorizontal = 1.2D;
+        double forcaVertical = 0.8D;
 
-        target.push(
+        Vec3 velocity = new Vec3(
                 look.x * forcaHorizontal,
                 forcaVertical,
                 look.z * forcaHorizontal
         );
 
+        target.setDeltaMovement(velocity);
         target.hurtMarked = true;
     }
 
